@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body {
+	background: #383838;
+}
+#inputWrapper {
+	margin-bottom: 20px;
+}
+.stack {
+	width: 400px;
+	height: 200px;
+	border:1px solid #ccc;
+	margin:30px auto 0;
+	padding: 20px;
+}
